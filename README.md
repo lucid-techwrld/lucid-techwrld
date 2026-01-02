@@ -1,10 +1,12 @@
 Hi there! 👋
 🚀 About Me
-I'm a full-stack web developer with experience in **HTML, CSS, JavaScript, React, and Tailwind**. Currently, I'm expanding my skills by learning **Node.js and Express**.
+'m Davis Ayomide Ariyo, with 4+ years of experience.
+
+Passionate FullStack developer specializing in building full-stack web applications using **MongoDB**, **Postgresql, Typescript, Express.js, React, and Node.js.** Focused on clean code, responsive design, and delivering seamless user experiences.
 
 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
-- **Backend:** Node.js, Express (learning)
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS, Zod, Zustand and Basic SEO
+- **Backend:** Node.js, Express, MongoDB, Prisma, Knex.Js, PostgreSQL, Supabase, AWS, JWT Authentication etc...
 - **Tools & Platforms:** Git, GitHub, VS Code, Figma
 
 📌 Projects
