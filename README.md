@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Davis Ayomide
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Davis Ayomide Ariyo
 ======================================================================================================================================
 
-Software Engineer | Backend Developer Ariyo
+Software Engineer | Backend Developer 
 -------------------------------------
 
 Passionate FullStack developer specializing in building full-stack web applications using MongoDB, Postgresql, Typescript, Express.js, React, Prisma, Knex, BullMQ, Redis, Go and Node.js. Focused on clean code, responsive design, and delivering seamless user experiences.
